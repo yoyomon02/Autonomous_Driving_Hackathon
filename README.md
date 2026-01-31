@@ -21,7 +21,7 @@ Double-CUSUM Detection: Each expert features a built-in change-point detection m
 
 Virtual Accuracy History: The top-level BanditAgent tracks a sliding window of "virtual rewards" for each council member, dynamically routing control to the expert currently showing the highest historical accuracy.
 
-![AL_result](https://github.com/user-attachments/assets/fafe08f1-0d53-45fb-8899-97b85b9a8411)
+<img width="264" height="235" alt="AL_result" src="https://github.com/user-attachments/assets/04f4540a-1d44-41d9-afb6-d5cb73abe0a9" />
 
 As a result, our RL model scored a total score of 1345, which was 2nd out of 10 teams.
 You can see the details in the docs folder.
