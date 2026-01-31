@@ -2,6 +2,7 @@
 경북대학교 AICOSS 자율주행로봇 경진대회
 
 Autonomous Racing: RL & CV Integration
+
 Team 애드 아스트라
 
 1. Event Overview
@@ -33,6 +34,11 @@ Architecture: A 9-layer Residual CNN with Swish activation and Batch Normalizati
 
 Preprocessing: We implemented 2500 images and labeled each image, ensuring the model could treat diagonal curves as vertical paths for better centering.
 Due to time limitation, we focused on programming the car to turn left on the digital 8 track.
+
+![228_228_2026-01-29_17-00-01](https://github.com/user-attachments/assets/dbb47c12-2d2a-4cec-ba2c-f1b72215d289)
+![286_286_2026-01-29_16-17-30](https://github.com/user-attachments/assets/31b118b9-97e5-46e7-9fe3-dbf8cecd5e19)
+![66_66_2026-01-29_16-45-24](https://github.com/user-attachments/assets/8a42b803-1acc-4817-acc9-cc364f70c088)
+
 
 Adaptive Control: The system uses the DC motor with encoder to dynamically scale speed—slowing down by 60% during Status 3 (Turns) and accelerating on straights.
 
