@@ -1,0 +1,82 @@
+[
+    {
+        "level": 1,
+        "p0": 0.8,
+        "p1": 0.2,
+        "start_trial": 0,
+        "end_trial": 186,
+        "n_trials": 187
+    },
+    {
+        "level": 2,
+        "p0": 0.2,
+        "p1": 0.8,
+        "start_trial": 187,
+        "end_trial": 388,
+        "n_trials": 202
+    },
+    {
+        "level": 3,
+        "p0": 0.6,
+        "p1": 0.4,
+        "start_trial": 389,
+        "end_trial": 580,
+        "n_trials": 192
+    },
+    {
+        "level": 4,
+        "p0": 0.4,
+        "p1": 0.6,
+        "start_trial": 581,
+        "end_trial": 771,
+        "n_trials": 191
+    },
+    {
+        "level": 5,
+        "p0": 0.9,
+        "p1": 0.4,
+        "start_trial": 772,
+        "end_trial": 938,
+        "n_trials": 167
+    },
+    {
+        "level": 6,
+        "p0": 0.6,
+        "p1": 0.1,
+        "start_trial": 939,
+        "end_trial": 1140,
+        "n_trials": 202
+    },
+    {
+        "level": 7,
+        "p0": 0.4,
+        "p1": 0.9,
+        "start_trial": 1141,
+        "end_trial": 1348,
+        "n_trials": 208
+    },
+    {
+        "level": 8,
+        "p0": 0.1,
+        "p1": 0.6,
+        "start_trial": 1349,
+        "end_trial": 1505,
+        "n_trials": 157
+    },
+    {
+        "level": 9,
+        "p0": 0.5,
+        "p1": 0.5,
+        "start_trial": 1506,
+        "end_trial": 1693,
+        "n_trials": 188
+    },
+    {
+        "level": 10,
+        "p0": 0.7,
+        "p1": 0.3,
+        "start_trial": 1694,
+        "end_trial": 1999,
+        "n_trials": 306
+    }
+]
